@@ -6,7 +6,7 @@ const Zillow = require('node-zillow');
 const zillow = new Zillow(process.env.ZILLOW_ID)
 
 const parameters = {
-    address: '2nd Avenue',
+    address: '85th Street',
     citystatezip: 'Seattle, WA',
     rentzestimate: false
 }

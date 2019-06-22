@@ -1,28 +1,28 @@
 [
   {
     "zpid": [
-      "2107228858"
+      "2094622883"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/715-2nd-Ave-N-APT-307-Seattle-WA-98109/2107228858_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-506-Seattle-WA-98117/2094622883_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2107228858_zpid/"
+          "http://www.zillow.com/homes/2094622883_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2107228858_zpid/"
+          "http://www.zillow.com/homes/comps/2094622883_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "715 2nd Ave N APT 307"
+          "143 NW 85th St UNIT 506"
         ],
         "zipcode": [
-          "98109"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -31,10 +31,10 @@
           "WA"
         ],
         "latitude": [
-          "47.625945"
+          "47.690395"
         ],
         "longitude": [
-          "-122.353174"
+          "-122.359795"
         ]
       }
     ],
@@ -88,23 +88,23 @@
         "region": [
           {
             "$": {
-              "name": "Lower Queen Anne",
-              "id": "271906",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "611,300"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Lower-Queen-Anne/r_271906/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/lower-queen-anne-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/lower-queen-anne-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -115,28 +115,28 @@
   },
   {
     "zpid": [
-      "2124012100"
+      "2094290485"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-105-Seattle-WA-98119/2124012100_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-508-Seattle-WA-98117/2094290485_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2124012100_zpid/"
+          "http://www.zillow.com/homes/2094290485_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2124012100_zpid/"
+          "http://www.zillow.com/homes/comps/2094290485_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "610 2nd Ave W APT 105"
+          "143 NW 85th St UNIT 508"
         ],
         "zipcode": [
-          "98119"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -145,10 +145,10 @@
           "WA"
         ],
         "latitude": [
-          "47.625133"
+          "47.690395"
         ],
         "longitude": [
-          "-122.358832"
+          "-122.359795"
         ]
       }
     ],
@@ -202,23 +202,23 @@
         "region": [
           {
             "$": {
-              "name": "Uptown",
-              "id": "344010",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "447,400"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/uptown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -229,28 +229,28 @@
   },
   {
     "zpid": [
-      "2122530399"
+      "2093846458"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-301-Seattle-WA-98119/2122530399_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-101-Seattle-WA-98117/2093846458_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2122530399_zpid/"
+          "http://www.zillow.com/homes/2093846458_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2122530399_zpid/"
+          "http://www.zillow.com/homes/comps/2093846458_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "610 2nd Ave W APT 301"
+          "143 NW 85th St UNIT 101"
         ],
         "zipcode": [
-          "98119"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -259,10 +259,10 @@
           "WA"
         ],
         "latitude": [
-          "47.625133"
+          "47.690395"
         ],
         "longitude": [
-          "-122.358832"
+          "-122.359795"
         ]
       }
     ],
@@ -270,7 +270,7 @@
       {
         "amount": [
           {
-            "_": "647975",
+            "_": "771132",
             "$": {
               "currency": "USD"
             }
@@ -288,7 +288,7 @@
         ],
         "valueChange": [
           {
-            "_": "31845",
+            "_": "43324",
             "$": {
               "duration": "30",
               "currency": "USD"
@@ -299,7 +299,7 @@
           {
             "low": [
               {
-                "_": "434143",
+                "_": "524370",
                 "$": {
                   "currency": "USD"
                 }
@@ -307,7 +307,7 @@
             ],
             "high": [
               {
-                "_": "952523",
+                "_": "1511419",
                 "$": {
                   "currency": "USD"
                 }
@@ -325,23 +325,23 @@
         "region": [
           {
             "$": {
-              "name": "Uptown",
-              "id": "344010",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "447,400"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/uptown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -352,28 +352,28 @@
   },
   {
     "zpid": [
-      "2121711796"
+      "2083976621"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/2205-2nd-Ave-APT-302-Seattle-WA-98121/2121711796_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-306-Seattle-WA-98117/2083976621_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2121711796_zpid/"
+          "http://www.zillow.com/homes/2083976621_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2121711796_zpid/"
+          "http://www.zillow.com/homes/comps/2083976621_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "2205 2nd Ave APT 302"
+          "143 NW 85th St UNIT 306"
         ],
         "zipcode": [
-          "98121"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -382,10 +382,10 @@
           "WA"
         ],
         "latitude": [
-          "47.613152"
+          "47.690395"
         ],
         "longitude": [
-          "-122.344761"
+          "-122.359795"
         ]
       }
     ],
@@ -439,23 +439,23 @@
         "region": [
           {
             "$": {
-              "name": "Belltown",
-              "id": "271808",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "509,100"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Belltown/r_271808/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/belltown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/belltown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -466,28 +466,28 @@
   },
   {
     "zpid": [
-      "2105992915"
+      "2093203017"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/715-2nd-Ave-N-APT-104-Seattle-WA-98109/2105992915_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-401-Seattle-WA-98117/2093203017_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2105992915_zpid/"
+          "http://www.zillow.com/homes/2093203017_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2105992915_zpid/"
+          "http://www.zillow.com/homes/comps/2093203017_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "715 2nd Ave N APT 104"
+          "143 NW 85th St UNIT 401"
         ],
         "zipcode": [
-          "98109"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -496,10 +496,10 @@
           "WA"
         ],
         "latitude": [
-          "47.625945"
+          "47.690395"
         ],
         "longitude": [
-          "-122.353174"
+          "-122.359795"
         ]
       }
     ],
@@ -553,23 +553,23 @@
         "region": [
           {
             "$": {
-              "name": "Lower Queen Anne",
-              "id": "271906",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "611,300"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Lower-Queen-Anne/r_271906/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/lower-queen-anne-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/lower-queen-anne-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -580,28 +580,28 @@
   },
   {
     "zpid": [
-      "2084025397"
+      "2093587346"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/2205-2nd-Ave-APT-511-Seattle-WA-98121/2084025397_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-5081694-Seattle-WA-98117/2093587346_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2084025397_zpid/"
+          "http://www.zillow.com/homes/2093587346_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2084025397_zpid/"
+          "http://www.zillow.com/homes/comps/2093587346_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "2205 2nd Ave APT 511"
+          "143 NW 85th St # 5081694"
         ],
         "zipcode": [
-          "98121"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -610,10 +610,10 @@
           "WA"
         ],
         "latitude": [
-          "47.613152"
+          "47.690395"
         ],
         "longitude": [
-          "-122.344761"
+          "-122.359795"
         ]
       }
     ],
@@ -667,23 +667,23 @@
         "region": [
           {
             "$": {
-              "name": "Belltown",
-              "id": "271808",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "509,100"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Belltown/r_271808/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/belltown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/belltown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -694,28 +694,28 @@
   },
   {
     "zpid": [
-      "2108573178"
+      "2095003512"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/715-2nd-Ave-N-APT-204-Seattle-WA-98109/2108573178_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-402-Seattle-WA-98117/2095003512_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2108573178_zpid/"
+          "http://www.zillow.com/homes/2095003512_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2108573178_zpid/"
+          "http://www.zillow.com/homes/comps/2095003512_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "715 2nd Ave N APT 204"
+          "143 NW 85th St UNIT 402"
         ],
         "zipcode": [
-          "98109"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -724,10 +724,10 @@
           "WA"
         ],
         "latitude": [
-          "47.625945"
+          "47.690395"
         ],
         "longitude": [
-          "-122.353174"
+          "-122.359795"
         ]
       }
     ],
@@ -735,7 +735,577 @@
       {
         "amount": [
           {
-            "_": "828809",
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Greenwood",
+              "id": "250788",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "626,900"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/greenwood-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2095163515"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-501-Seattle-WA-98117/2095163515_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2095163515_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2095163515_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "143 NW 85th St UNIT 501"
+        ],
+        "zipcode": [
+          "98117"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.690395"
+        ],
+        "longitude": [
+          "-122.359795"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Greenwood",
+              "id": "250788",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "626,900"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/greenwood-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2084950396"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-503-Seattle-WA-98117/2084950396_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2084950396_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2084950396_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "143 NW 85th St UNIT 503"
+        ],
+        "zipcode": [
+          "98117"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.690395"
+        ],
+        "longitude": [
+          "-122.359795"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Greenwood",
+              "id": "250788",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "626,900"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/greenwood-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2092745274"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-505-Seattle-WA-98117/2092745274_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2092745274_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2092745274_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "143 NW 85th St UNIT 505"
+        ],
+        "zipcode": [
+          "98117"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.690395"
+        ],
+        "longitude": [
+          "-122.359795"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Greenwood",
+              "id": "250788",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "626,900"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/greenwood-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2086867834"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-504-Seattle-WA-98117/2086867834_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2086867834_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2086867834_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "143 NW 85th St UNIT 504"
+        ],
+        "zipcode": [
+          "98117"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.690395"
+        ],
+        "longitude": [
+          "-122.359795"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Greenwood",
+              "id": "250788",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "626,900"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/greenwood-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2090973211"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/315-NW-85th-St-APT-203-Seattle-WA-98117/2090973211_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2090973211_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2090973211_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "315 NW 85th St APT 203"
+        ],
+        "zipcode": [
+          "98117"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.690399"
+        ],
+        "longitude": [
+          "-122.361327"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "_": "807020",
             "$": {
               "currency": "USD"
             }
@@ -753,7 +1323,7 @@
         ],
         "valueChange": [
           {
-            "_": "43",
+            "_": "49703",
             "$": {
               "duration": "30",
               "currency": "USD"
@@ -764,7 +1334,7 @@
           {
             "low": [
               {
-                "_": "580166",
+                "_": "581054",
                 "$": {
                   "currency": "USD"
                 }
@@ -772,7 +1342,7 @@
             ],
             "high": [
               {
-                "_": "1657618",
+                "_": "1557549",
                 "$": {
                   "currency": "USD"
                 }
@@ -790,23 +1360,23 @@
         "region": [
           {
             "$": {
-              "name": "Lower Queen Anne",
-              "id": "271906",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "611,300"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Lower-Queen-Anne/r_271906/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/lower-queen-anne-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/lower-queen-anne-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -817,28 +1387,28 @@
   },
   {
     "zpid": [
-      "2084952076"
+      "2090973505"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/2205-2nd-Ave-APT-101-Seattle-WA-98121/2084952076_zpid/"
+          "http://www.zillow.com/homedetails/315-NW-85th-St-APT-304-Seattle-WA-98117/2090973505_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2084952076_zpid/"
+          "http://www.zillow.com/homes/2090973505_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2084952076_zpid/"
+          "http://www.zillow.com/homes/comps/2090973505_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "2205 2nd Ave APT 101"
+          "315 NW 85th St APT 304"
         ],
         "zipcode": [
-          "98121"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -847,10 +1417,10 @@
           "WA"
         ],
         "latitude": [
-          "47.613152"
+          "47.690399"
         ],
         "longitude": [
-          "-122.344761"
+          "-122.361327"
         ]
       }
     ],
@@ -904,23 +1474,23 @@
         "region": [
           {
             "$": {
-              "name": "Belltown",
-              "id": "271808",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "509,100"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Belltown/r_271808/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/belltown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/belltown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -931,28 +1501,28 @@
   },
   {
     "zpid": [
-      "2085049868"
+      "2091505557"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/2205-2nd-Ave-APT-301-Seattle-WA-98121/2085049868_zpid/"
+          "http://www.zillow.com/homedetails/315-NW-85th-St-APT-204-Seattle-WA-98117/2091505557_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2085049868_zpid/"
+          "http://www.zillow.com/homes/2091505557_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2085049868_zpid/"
+          "http://www.zillow.com/homes/comps/2091505557_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "2205 2nd Ave APT 301"
+          "315 NW 85th St APT 204"
         ],
         "zipcode": [
-          "98121"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -961,10 +1531,10 @@
           "WA"
         ],
         "latitude": [
-          "47.613152"
+          "47.690399"
         ],
         "longitude": [
-          "-122.344761"
+          "-122.361327"
         ]
       }
     ],
@@ -972,805 +1542,7 @@
       {
         "amount": [
           {
-            "$": {
-              "currency": "USD"
-            }
-          }
-        ],
-        "last-updated": [
-          "01/01/1970"
-        ],
-        "oneWeekChange": [
-          {
-            "$": {
-              "deprecated": "true"
-            }
-          }
-        ],
-        "valueChange": [
-          ""
-        ],
-        "valuationRange": [
-          {
-            "low": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ],
-            "high": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ]
-          }
-        ],
-        "percentile": [
-          "0"
-        ]
-      }
-    ],
-    "localRealEstate": [
-      {
-        "region": [
-          {
-            "$": {
-              "name": "Belltown",
-              "id": "271808",
-              "type": "neighborhood"
-            },
-            "zindexValue": [
-              "509,100"
-            ],
-            "links": [
-              {
-                "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Belltown/r_271808/"
-                ],
-                "forSaleByOwner": [
-                  "http://www.zillow.com/belltown-seattle-wa/fsbo/"
-                ],
-                "forSale": [
-                  "http://www.zillow.com/belltown-seattle-wa/"
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "zpid": [
-      "2085049869"
-    ],
-    "links": [
-      {
-        "homedetails": [
-          "http://www.zillow.com/homedetails/2205-2nd-Ave-APT-202-Seattle-WA-98121/2085049869_zpid/"
-        ],
-        "mapthishome": [
-          "http://www.zillow.com/homes/2085049869_zpid/"
-        ],
-        "comparables": [
-          "http://www.zillow.com/homes/comps/2085049869_zpid/"
-        ]
-      }
-    ],
-    "address": [
-      {
-        "street": [
-          "2205 2nd Ave APT 202"
-        ],
-        "zipcode": [
-          "98121"
-        ],
-        "city": [
-          "Seattle"
-        ],
-        "state": [
-          "WA"
-        ],
-        "latitude": [
-          "47.613152"
-        ],
-        "longitude": [
-          "-122.344761"
-        ]
-      }
-    ],
-    "zestimate": [
-      {
-        "amount": [
-          {
-            "$": {
-              "currency": "USD"
-            }
-          }
-        ],
-        "last-updated": [
-          "01/01/1970"
-        ],
-        "oneWeekChange": [
-          {
-            "$": {
-              "deprecated": "true"
-            }
-          }
-        ],
-        "valueChange": [
-          ""
-        ],
-        "valuationRange": [
-          {
-            "low": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ],
-            "high": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ]
-          }
-        ],
-        "percentile": [
-          "0"
-        ]
-      }
-    ],
-    "localRealEstate": [
-      {
-        "region": [
-          {
-            "$": {
-              "name": "Belltown",
-              "id": "271808",
-              "type": "neighborhood"
-            },
-            "zindexValue": [
-              "509,100"
-            ],
-            "links": [
-              {
-                "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Belltown/r_271808/"
-                ],
-                "forSaleByOwner": [
-                  "http://www.zillow.com/belltown-seattle-wa/fsbo/"
-                ],
-                "forSale": [
-                  "http://www.zillow.com/belltown-seattle-wa/"
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "zpid": [
-      "2085192266"
-    ],
-    "links": [
-      {
-        "homedetails": [
-          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-204-Seattle-WA-98119/2085192266_zpid/"
-        ],
-        "mapthishome": [
-          "http://www.zillow.com/homes/2085192266_zpid/"
-        ],
-        "comparables": [
-          "http://www.zillow.com/homes/comps/2085192266_zpid/"
-        ]
-      }
-    ],
-    "address": [
-      {
-        "street": [
-          "610 2nd Ave W APT 204"
-        ],
-        "zipcode": [
-          "98119"
-        ],
-        "city": [
-          "Seattle"
-        ],
-        "state": [
-          "WA"
-        ],
-        "latitude": [
-          "47.625133"
-        ],
-        "longitude": [
-          "-122.358832"
-        ]
-      }
-    ],
-    "zestimate": [
-      {
-        "amount": [
-          {
-            "$": {
-              "currency": "USD"
-            }
-          }
-        ],
-        "last-updated": [
-          "01/01/1970"
-        ],
-        "oneWeekChange": [
-          {
-            "$": {
-              "deprecated": "true"
-            }
-          }
-        ],
-        "valueChange": [
-          ""
-        ],
-        "valuationRange": [
-          {
-            "low": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ],
-            "high": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ]
-          }
-        ],
-        "percentile": [
-          "0"
-        ]
-      }
-    ],
-    "localRealEstate": [
-      {
-        "region": [
-          {
-            "$": {
-              "name": "Uptown",
-              "id": "344010",
-              "type": "neighborhood"
-            },
-            "zindexValue": [
-              "447,400"
-            ],
-            "links": [
-              {
-                "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
-                ],
-                "forSaleByOwner": [
-                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
-                ],
-                "forSale": [
-                  "http://www.zillow.com/uptown-seattle-wa/"
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "zpid": [
-      "2107393252"
-    ],
-    "links": [
-      {
-        "homedetails": [
-          "http://www.zillow.com/homedetails/715-2nd-Ave-N-APT-203-Seattle-WA-98109/2107393252_zpid/"
-        ],
-        "mapthishome": [
-          "http://www.zillow.com/homes/2107393252_zpid/"
-        ],
-        "comparables": [
-          "http://www.zillow.com/homes/comps/2107393252_zpid/"
-        ]
-      }
-    ],
-    "address": [
-      {
-        "street": [
-          "715 2nd Ave N APT 203"
-        ],
-        "zipcode": [
-          "98109"
-        ],
-        "city": [
-          "Seattle"
-        ],
-        "state": [
-          "WA"
-        ],
-        "latitude": [
-          "47.625945"
-        ],
-        "longitude": [
-          "-122.353174"
-        ]
-      }
-    ],
-    "zestimate": [
-      {
-        "amount": [
-          {
-            "$": {
-              "currency": "USD"
-            }
-          }
-        ],
-        "last-updated": [
-          "01/01/1970"
-        ],
-        "oneWeekChange": [
-          {
-            "$": {
-              "deprecated": "true"
-            }
-          }
-        ],
-        "valueChange": [
-          ""
-        ],
-        "valuationRange": [
-          {
-            "low": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ],
-            "high": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ]
-          }
-        ],
-        "percentile": [
-          "0"
-        ]
-      }
-    ],
-    "localRealEstate": [
-      {
-        "region": [
-          {
-            "$": {
-              "name": "Lower Queen Anne",
-              "id": "271906",
-              "type": "neighborhood"
-            },
-            "zindexValue": [
-              "611,300"
-            ],
-            "links": [
-              {
-                "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Lower-Queen-Anne/r_271906/"
-                ],
-                "forSaleByOwner": [
-                  "http://www.zillow.com/lower-queen-anne-seattle-wa/fsbo/"
-                ],
-                "forSale": [
-                  "http://www.zillow.com/lower-queen-anne-seattle-wa/"
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "zpid": [
-      "2108573246"
-    ],
-    "links": [
-      {
-        "homedetails": [
-          "http://www.zillow.com/homedetails/715-2nd-Ave-N-APT-201-Seattle-WA-98109/2108573246_zpid/"
-        ],
-        "mapthishome": [
-          "http://www.zillow.com/homes/2108573246_zpid/"
-        ],
-        "comparables": [
-          "http://www.zillow.com/homes/comps/2108573246_zpid/"
-        ]
-      }
-    ],
-    "address": [
-      {
-        "street": [
-          "715 2nd Ave N APT 201"
-        ],
-        "zipcode": [
-          "98109"
-        ],
-        "city": [
-          "Seattle"
-        ],
-        "state": [
-          "WA"
-        ],
-        "latitude": [
-          "47.625945"
-        ],
-        "longitude": [
-          "-122.353174"
-        ]
-      }
-    ],
-    "zestimate": [
-      {
-        "amount": [
-          {
-            "$": {
-              "currency": "USD"
-            }
-          }
-        ],
-        "last-updated": [
-          "01/01/1970"
-        ],
-        "oneWeekChange": [
-          {
-            "$": {
-              "deprecated": "true"
-            }
-          }
-        ],
-        "valueChange": [
-          ""
-        ],
-        "valuationRange": [
-          {
-            "low": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ],
-            "high": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ]
-          }
-        ],
-        "percentile": [
-          "0"
-        ]
-      }
-    ],
-    "localRealEstate": [
-      {
-        "region": [
-          {
-            "$": {
-              "name": "Lower Queen Anne",
-              "id": "271906",
-              "type": "neighborhood"
-            },
-            "zindexValue": [
-              "611,300"
-            ],
-            "links": [
-              {
-                "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Lower-Queen-Anne/r_271906/"
-                ],
-                "forSaleByOwner": [
-                  "http://www.zillow.com/lower-queen-anne-seattle-wa/fsbo/"
-                ],
-                "forSale": [
-                  "http://www.zillow.com/lower-queen-anne-seattle-wa/"
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "zpid": [
-      "2104733378"
-    ],
-    "links": [
-      {
-        "homedetails": [
-          "http://www.zillow.com/homedetails/715-2nd-Ave-N-APT-302-Seattle-WA-98109/2104733378_zpid/"
-        ],
-        "mapthishome": [
-          "http://www.zillow.com/homes/2104733378_zpid/"
-        ],
-        "comparables": [
-          "http://www.zillow.com/homes/comps/2104733378_zpid/"
-        ]
-      }
-    ],
-    "address": [
-      {
-        "street": [
-          "715 2nd Ave N APT 302"
-        ],
-        "zipcode": [
-          "98109"
-        ],
-        "city": [
-          "Seattle"
-        ],
-        "state": [
-          "WA"
-        ],
-        "latitude": [
-          "47.625945"
-        ],
-        "longitude": [
-          "-122.353174"
-        ]
-      }
-    ],
-    "zestimate": [
-      {
-        "amount": [
-          {
-            "$": {
-              "currency": "USD"
-            }
-          }
-        ],
-        "last-updated": [
-          "01/01/1970"
-        ],
-        "oneWeekChange": [
-          {
-            "$": {
-              "deprecated": "true"
-            }
-          }
-        ],
-        "valueChange": [
-          ""
-        ],
-        "valuationRange": [
-          {
-            "low": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ],
-            "high": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ]
-          }
-        ],
-        "percentile": [
-          "0"
-        ]
-      }
-    ],
-    "localRealEstate": [
-      {
-        "region": [
-          {
-            "$": {
-              "name": "Lower Queen Anne",
-              "id": "271906",
-              "type": "neighborhood"
-            },
-            "zindexValue": [
-              "611,300"
-            ],
-            "links": [
-              {
-                "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Lower-Queen-Anne/r_271906/"
-                ],
-                "forSaleByOwner": [
-                  "http://www.zillow.com/lower-queen-anne-seattle-wa/fsbo/"
-                ],
-                "forSale": [
-                  "http://www.zillow.com/lower-queen-anne-seattle-wa/"
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "zpid": [
-      "2083857152"
-    ],
-    "links": [
-      {
-        "homedetails": [
-          "http://www.zillow.com/homedetails/2205-2nd-Ave-APT-608-Seattle-WA-98121/2083857152_zpid/"
-        ],
-        "mapthishome": [
-          "http://www.zillow.com/homes/2083857152_zpid/"
-        ],
-        "comparables": [
-          "http://www.zillow.com/homes/comps/2083857152_zpid/"
-        ]
-      }
-    ],
-    "address": [
-      {
-        "street": [
-          "2205 2nd Ave APT 608"
-        ],
-        "zipcode": [
-          "98121"
-        ],
-        "city": [
-          "Seattle"
-        ],
-        "state": [
-          "WA"
-        ],
-        "latitude": [
-          "47.613152"
-        ],
-        "longitude": [
-          "-122.344761"
-        ]
-      }
-    ],
-    "zestimate": [
-      {
-        "amount": [
-          {
-            "$": {
-              "currency": "USD"
-            }
-          }
-        ],
-        "last-updated": [
-          "12/31/1969"
-        ],
-        "oneWeekChange": [
-          {
-            "$": {
-              "deprecated": "true"
-            }
-          }
-        ],
-        "valueChange": [
-          ""
-        ],
-        "valuationRange": [
-          {
-            "low": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ],
-            "high": [
-              {
-                "$": {
-                  "currency": "USD"
-                }
-              }
-            ]
-          }
-        ],
-        "percentile": [
-          "0"
-        ]
-      }
-    ],
-    "localRealEstate": [
-      {
-        "region": [
-          {
-            "$": {
-              "name": "Belltown",
-              "id": "271808",
-              "type": "neighborhood"
-            },
-            "zindexValue": [
-              "509,100"
-            ],
-            "links": [
-              {
-                "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Belltown/r_271808/"
-                ],
-                "forSaleByOwner": [
-                  "http://www.zillow.com/belltown-seattle-wa/fsbo/"
-                ],
-                "forSale": [
-                  "http://www.zillow.com/belltown-seattle-wa/"
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "zpid": [
-      "2086543931"
-    ],
-    "links": [
-      {
-        "homedetails": [
-          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-309-Seattle-WA-98119/2086543931_zpid/"
-        ],
-        "mapthishome": [
-          "http://www.zillow.com/homes/2086543931_zpid/"
-        ],
-        "comparables": [
-          "http://www.zillow.com/homes/comps/2086543931_zpid/"
-        ]
-      }
-    ],
-    "address": [
-      {
-        "street": [
-          "610 2nd Ave W APT 309"
-        ],
-        "zipcode": [
-          "98119"
-        ],
-        "city": [
-          "Seattle"
-        ],
-        "state": [
-          "WA"
-        ],
-        "latitude": [
-          "47.62511"
-        ],
-        "longitude": [
-          "-122.358924"
-        ]
-      }
-    ],
-    "zestimate": [
-      {
-        "amount": [
-          {
-            "_": "777066",
+            "_": "757898",
             "$": {
               "currency": "USD"
             }
@@ -1788,7 +1560,7 @@
         ],
         "valueChange": [
           {
-            "_": "3798",
+            "_": "40963",
             "$": {
               "duration": "30",
               "currency": "USD"
@@ -1799,7 +1571,7 @@
           {
             "low": [
               {
-                "_": "575029",
+                "_": "507792",
                 "$": {
                   "currency": "USD"
                 }
@@ -1807,7 +1579,7 @@
             ],
             "high": [
               {
-                "_": "1554132",
+                "_": "1493059",
                 "$": {
                   "currency": "USD"
                 }
@@ -1825,23 +1597,23 @@
         "region": [
           {
             "$": {
-              "name": "Uptown",
-              "id": "344010",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "447,400"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/uptown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -1852,28 +1624,28 @@
   },
   {
     "zpid": [
-      "2087398888"
+      "2091505558"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-209-Seattle-WA-98119/2087398888_zpid/"
+          "http://www.zillow.com/homedetails/315-NW-85th-St-APT-301-Seattle-WA-98117/2091505558_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2087398888_zpid/"
+          "http://www.zillow.com/homes/2091505558_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2087398888_zpid/"
+          "http://www.zillow.com/homes/comps/2091505558_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "610 2nd Ave W APT 209"
+          "315 NW 85th St APT 301"
         ],
         "zipcode": [
-          "98119"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -1882,10 +1654,10 @@
           "WA"
         ],
         "latitude": [
-          "47.62511"
+          "47.690399"
         ],
         "longitude": [
-          "-122.358924"
+          "-122.361327"
         ]
       }
     ],
@@ -1893,7 +1665,7 @@
       {
         "amount": [
           {
-            "_": "775533",
+            "_": "780820",
             "$": {
               "currency": "USD"
             }
@@ -1911,7 +1683,7 @@
         ],
         "valueChange": [
           {
-            "_": "7413",
+            "_": "48412",
             "$": {
               "duration": "30",
               "currency": "USD"
@@ -1922,7 +1694,7 @@
           {
             "low": [
               {
-                "_": "566139",
+                "_": "546574",
                 "$": {
                   "currency": "USD"
                 }
@@ -1930,7 +1702,7 @@
             ],
             "high": [
               {
-                "_": "1551066",
+                "_": "1514791",
                 "$": {
                   "currency": "USD"
                 }
@@ -1948,23 +1720,23 @@
         "region": [
           {
             "$": {
-              "name": "Uptown",
-              "id": "344010",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "447,400"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/uptown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -1975,28 +1747,28 @@
   },
   {
     "zpid": [
-      "2087398889"
+      "2091653127"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-203-Seattle-WA-98119/2087398889_zpid/"
+          "http://www.zillow.com/homedetails/922-N-85th-St-APT-3-Seattle-WA-98103/2091653127_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2087398889_zpid/"
+          "http://www.zillow.com/homes/2091653127_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2087398889_zpid/"
+          "http://www.zillow.com/homes/comps/2091653127_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "610 2nd Ave W APT 203"
+          "922 N 85th St APT 3"
         ],
         "zipcode": [
-          "98119"
+          "98103"
         ],
         "city": [
           "Seattle"
@@ -2005,10 +1777,133 @@
           "WA"
         ],
         "latitude": [
-          "47.625133"
+          "47.690789"
         ],
         "longitude": [
-          "-122.358832"
+          "-122.346166"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "_": "818012",
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "06/17/2019"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          {
+            "_": "58957",
+            "$": {
+              "duration": "30",
+              "currency": "USD"
+            }
+          }
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "_": "523528",
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "_": "1562403",
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Greenwood",
+              "id": "250788",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "626,900"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/greenwood-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2093368060"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-206-Seattle-WA-98117/2093368060_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2093368060_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2093368060_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "143 NW 85th St UNIT 206"
+        ],
+        "zipcode": [
+          "98117"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.690395"
+        ],
+        "longitude": [
+          "-122.359795"
         ]
       }
     ],
@@ -2062,23 +1957,23 @@
         "region": [
           {
             "$": {
-              "name": "Uptown",
-              "id": "344010",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "447,400"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/uptown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -2089,28 +1984,28 @@
   },
   {
     "zpid": [
-      "2088941432"
+      "2094310495"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-110-Seattle-WA-98119/2088941432_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-302-Seattle-WA-98117/2094310495_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2088941432_zpid/"
+          "http://www.zillow.com/homes/2094310495_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2088941432_zpid/"
+          "http://www.zillow.com/homes/comps/2094310495_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "610 2nd Ave W APT 110"
+          "143 NW 85th St UNIT 302"
         ],
         "zipcode": [
-          "98119"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -2119,10 +2014,10 @@
           "WA"
         ],
         "latitude": [
-          "47.625133"
+          "47.690395"
         ],
         "longitude": [
-          "-122.358832"
+          "-122.359795"
         ]
       }
     ],
@@ -2176,23 +2071,23 @@
         "region": [
           {
             "$": {
-              "name": "Uptown",
-              "id": "344010",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "447,400"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/uptown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -2203,28 +2098,28 @@
   },
   {
     "zpid": [
-      "2088967468"
+      "2091883761"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-308-Seattle-WA-98119/2088967468_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-208-Seattle-WA-98117/2091883761_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2088967468_zpid/"
+          "http://www.zillow.com/homes/2091883761_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2088967468_zpid/"
+          "http://www.zillow.com/homes/comps/2091883761_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "610 2nd Ave W APT 308"
+          "143 NW 85th St UNIT 208"
         ],
         "zipcode": [
-          "98119"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -2233,10 +2128,10 @@
           "WA"
         ],
         "latitude": [
-          "47.62511"
+          "47.690395"
         ],
         "longitude": [
-          "-122.358924"
+          "-122.359795"
         ]
       }
     ],
@@ -2290,23 +2185,23 @@
         "region": [
           {
             "$": {
-              "name": "Uptown",
-              "id": "344010",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "447,400"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/uptown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -2317,28 +2212,28 @@
   },
   {
     "zpid": [
-      "2111688751"
+      "2090185134"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/1421-2nd-Ave-N-APT-4-Seattle-WA-98109/2111688751_zpid/"
+          "http://www.zillow.com/homedetails/315-NW-85th-St-APT-303-Seattle-WA-98117/2090185134_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2111688751_zpid/"
+          "http://www.zillow.com/homes/2090185134_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2111688751_zpid/"
+          "http://www.zillow.com/homes/comps/2090185134_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "1421 2nd Ave N APT 4"
+          "315 NW 85th St APT 303"
         ],
         "zipcode": [
-          "98109"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -2347,10 +2242,10 @@
           "WA"
         ],
         "latitude": [
-          "47.631702"
+          "47.690399"
         ],
         "longitude": [
-          "-122.352973"
+          "-122.361327"
         ]
       }
     ],
@@ -2404,23 +2299,23 @@
         "region": [
           {
             "$": {
-              "name": "East Queen Anne",
-              "id": "271856",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "870,700"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/East-Queen-Anne/r_271856/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/east-queen-anne-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/east-queen-anne-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -2431,28 +2326,28 @@
   },
   {
     "zpid": [
-      "2089778347"
+      "2092552842"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/1421-2nd-Ave-N-APT-8-Seattle-WA-98109/2089778347_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-103-Seattle-WA-98117/2092552842_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2089778347_zpid/"
+          "http://www.zillow.com/homes/2092552842_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2089778347_zpid/"
+          "http://www.zillow.com/homes/comps/2092552842_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "1421 2nd Ave N APT 8"
+          "143 NW 85th St UNIT 103"
         ],
         "zipcode": [
-          "98109"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -2461,10 +2356,10 @@
           "WA"
         ],
         "latitude": [
-          "47.631694"
+          "47.690395"
         ],
         "longitude": [
-          "-122.352922"
+          "-122.359795"
         ]
       }
     ],
@@ -2518,23 +2413,23 @@
         "region": [
           {
             "$": {
-              "name": "East Queen Anne",
-              "id": "271856",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "870,700"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/East-Queen-Anne/r_271856/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/east-queen-anne-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/east-queen-anne-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -2545,28 +2440,28 @@
   },
   {
     "zpid": [
-      "2091213697"
+      "2093112697"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-201-Seattle-WA-98119/2091213697_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-406-Seattle-WA-98117/2093112697_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2091213697_zpid/"
+          "http://www.zillow.com/homes/2093112697_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2091213697_zpid/"
+          "http://www.zillow.com/homes/comps/2093112697_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "610 2nd Ave W APT 201"
+          "143 NW 85th St UNIT 406"
         ],
         "zipcode": [
-          "98119"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -2575,10 +2470,133 @@
           "WA"
         ],
         "latitude": [
-          "47.62511"
+          "47.690395"
         ],
         "longitude": [
-          "-122.358925"
+          "-122.359795"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "_": "768194",
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "06/17/2019"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          {
+            "_": "45421",
+            "$": {
+              "duration": "30",
+              "currency": "USD"
+            }
+          }
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "_": "514690",
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "_": "1490296",
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Greenwood",
+              "id": "250788",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "626,900"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/greenwood-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2093203018"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-202-Seattle-WA-98117/2093203018_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2093203018_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2093203018_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "143 NW 85th St UNIT 202"
+        ],
+        "zipcode": [
+          "98117"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.690395"
+        ],
+        "longitude": [
+          "-122.359795"
         ]
       }
     ],
@@ -2632,23 +2650,23 @@
         "region": [
           {
             "$": {
-              "name": "Uptown",
-              "id": "344010",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "447,400"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/uptown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -2659,28 +2677,28 @@
   },
   {
     "zpid": [
-      "2091792858"
+      "2093368024"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-310-Seattle-WA-98119/2091792858_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-404-Seattle-WA-98117/2093368024_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2091792858_zpid/"
+          "http://www.zillow.com/homes/2093368024_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2091792858_zpid/"
+          "http://www.zillow.com/homes/comps/2093368024_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "610 2nd Ave W APT 310"
+          "143 NW 85th St UNIT 404"
         ],
         "zipcode": [
-          "98119"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -2689,10 +2707,10 @@
           "WA"
         ],
         "latitude": [
-          "47.62511"
+          "47.690395"
         ],
         "longitude": [
-          "-122.358924"
+          "-122.359795"
         ]
       }
     ],
@@ -2700,13 +2718,14 @@
       {
         "amount": [
           {
+            "_": "768194",
             "$": {
               "currency": "USD"
             }
           }
         ],
         "last-updated": [
-          "01/01/1970"
+          "06/17/2019"
         ],
         "oneWeekChange": [
           {
@@ -2716,12 +2735,19 @@
           }
         ],
         "valueChange": [
-          ""
+          {
+            "_": "45415",
+            "$": {
+              "duration": "30",
+              "currency": "USD"
+            }
+          }
         ],
         "valuationRange": [
           {
             "low": [
               {
+                "_": "514690",
                 "$": {
                   "currency": "USD"
                 }
@@ -2729,6 +2755,7 @@
             ],
             "high": [
               {
+                "_": "1490296",
                 "$": {
                   "currency": "USD"
                 }
@@ -2746,23 +2773,23 @@
         "region": [
           {
             "$": {
-              "name": "Uptown",
-              "id": "344010",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "447,400"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/uptown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
@@ -2773,28 +2800,28 @@
   },
   {
     "zpid": [
-      "2092338459"
+      "2093368061"
     ],
     "links": [
       {
         "homedetails": [
-          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-208-Seattle-WA-98119/2092338459_zpid/"
+          "http://www.zillow.com/homedetails/143-NW-85th-St-UNIT-201-Seattle-WA-98117/2093368061_zpid/"
         ],
         "mapthishome": [
-          "http://www.zillow.com/homes/2092338459_zpid/"
+          "http://www.zillow.com/homes/2093368061_zpid/"
         ],
         "comparables": [
-          "http://www.zillow.com/homes/comps/2092338459_zpid/"
+          "http://www.zillow.com/homes/comps/2093368061_zpid/"
         ]
       }
     ],
     "address": [
       {
         "street": [
-          "610 2nd Ave W APT 208"
+          "143 NW 85th St UNIT 201"
         ],
         "zipcode": [
-          "98119"
+          "98117"
         ],
         "city": [
           "Seattle"
@@ -2803,10 +2830,10 @@
           "WA"
         ],
         "latitude": [
-          "47.625133"
+          "47.690395"
         ],
         "longitude": [
-          "-122.358832"
+          "-122.359795"
         ]
       }
     ],
@@ -2814,13 +2841,14 @@
       {
         "amount": [
           {
+            "_": "771132",
             "$": {
               "currency": "USD"
             }
           }
         ],
         "last-updated": [
-          "01/01/1970"
+          "06/17/2019"
         ],
         "oneWeekChange": [
           {
@@ -2830,12 +2858,19 @@
           }
         ],
         "valueChange": [
-          ""
+          {
+            "_": "43324",
+            "$": {
+              "duration": "30",
+              "currency": "USD"
+            }
+          }
         ],
         "valuationRange": [
           {
             "low": [
               {
+                "_": "524370",
                 "$": {
                   "currency": "USD"
                 }
@@ -2843,6 +2878,7 @@
             ],
             "high": [
               {
+                "_": "1511419",
                 "$": {
                   "currency": "USD"
                 }
@@ -2860,23 +2896,23 @@
         "region": [
           {
             "$": {
-              "name": "Uptown",
-              "id": "344010",
+              "name": "Greenwood",
+              "id": "250788",
               "type": "neighborhood"
             },
             "zindexValue": [
-              "447,400"
+              "626,900"
             ],
             "links": [
               {
                 "overview": [
-                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                  "http://www.zillow.com/local-info/WA-Seattle/Greenwood/r_250788/"
                 ],
                 "forSaleByOwner": [
-                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                  "http://www.zillow.com/greenwood-seattle-wa/fsbo/"
                 ],
                 "forSale": [
-                  "http://www.zillow.com/uptown-seattle-wa/"
+                  "http://www.zillow.com/greenwood-seattle-wa/"
                 ]
               }
             ]
