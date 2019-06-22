@@ -1,0 +1,2888 @@
+[
+  {
+    "zpid": [
+      "2107228858"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/715-2nd-Ave-N-APT-307-Seattle-WA-98109/2107228858_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2107228858_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2107228858_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "715 2nd Ave N APT 307"
+        ],
+        "zipcode": [
+          "98109"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.625945"
+        ],
+        "longitude": [
+          "-122.353174"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Lower Queen Anne",
+              "id": "271906",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "611,300"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Lower-Queen-Anne/r_271906/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/lower-queen-anne-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/lower-queen-anne-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2124012100"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-105-Seattle-WA-98119/2124012100_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2124012100_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2124012100_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "610 2nd Ave W APT 105"
+        ],
+        "zipcode": [
+          "98119"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.625133"
+        ],
+        "longitude": [
+          "-122.358832"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Uptown",
+              "id": "344010",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "447,400"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/uptown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2122530399"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-301-Seattle-WA-98119/2122530399_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2122530399_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2122530399_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "610 2nd Ave W APT 301"
+        ],
+        "zipcode": [
+          "98119"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.625133"
+        ],
+        "longitude": [
+          "-122.358832"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "_": "647975",
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "06/17/2019"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          {
+            "_": "31845",
+            "$": {
+              "duration": "30",
+              "currency": "USD"
+            }
+          }
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "_": "434143",
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "_": "952523",
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Uptown",
+              "id": "344010",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "447,400"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/uptown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2121711796"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/2205-2nd-Ave-APT-302-Seattle-WA-98121/2121711796_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2121711796_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2121711796_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "2205 2nd Ave APT 302"
+        ],
+        "zipcode": [
+          "98121"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.613152"
+        ],
+        "longitude": [
+          "-122.344761"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Belltown",
+              "id": "271808",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "509,100"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Belltown/r_271808/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/belltown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/belltown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2105992915"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/715-2nd-Ave-N-APT-104-Seattle-WA-98109/2105992915_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2105992915_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2105992915_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "715 2nd Ave N APT 104"
+        ],
+        "zipcode": [
+          "98109"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.625945"
+        ],
+        "longitude": [
+          "-122.353174"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Lower Queen Anne",
+              "id": "271906",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "611,300"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Lower-Queen-Anne/r_271906/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/lower-queen-anne-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/lower-queen-anne-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2084025397"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/2205-2nd-Ave-APT-511-Seattle-WA-98121/2084025397_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2084025397_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2084025397_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "2205 2nd Ave APT 511"
+        ],
+        "zipcode": [
+          "98121"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.613152"
+        ],
+        "longitude": [
+          "-122.344761"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Belltown",
+              "id": "271808",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "509,100"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Belltown/r_271808/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/belltown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/belltown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2108573178"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/715-2nd-Ave-N-APT-204-Seattle-WA-98109/2108573178_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2108573178_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2108573178_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "715 2nd Ave N APT 204"
+        ],
+        "zipcode": [
+          "98109"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.625945"
+        ],
+        "longitude": [
+          "-122.353174"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "_": "828809",
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "06/17/2019"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          {
+            "_": "43",
+            "$": {
+              "duration": "30",
+              "currency": "USD"
+            }
+          }
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "_": "580166",
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "_": "1657618",
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Lower Queen Anne",
+              "id": "271906",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "611,300"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Lower-Queen-Anne/r_271906/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/lower-queen-anne-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/lower-queen-anne-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2084952076"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/2205-2nd-Ave-APT-101-Seattle-WA-98121/2084952076_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2084952076_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2084952076_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "2205 2nd Ave APT 101"
+        ],
+        "zipcode": [
+          "98121"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.613152"
+        ],
+        "longitude": [
+          "-122.344761"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Belltown",
+              "id": "271808",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "509,100"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Belltown/r_271808/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/belltown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/belltown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2085049868"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/2205-2nd-Ave-APT-301-Seattle-WA-98121/2085049868_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2085049868_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2085049868_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "2205 2nd Ave APT 301"
+        ],
+        "zipcode": [
+          "98121"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.613152"
+        ],
+        "longitude": [
+          "-122.344761"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Belltown",
+              "id": "271808",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "509,100"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Belltown/r_271808/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/belltown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/belltown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2085049869"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/2205-2nd-Ave-APT-202-Seattle-WA-98121/2085049869_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2085049869_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2085049869_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "2205 2nd Ave APT 202"
+        ],
+        "zipcode": [
+          "98121"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.613152"
+        ],
+        "longitude": [
+          "-122.344761"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Belltown",
+              "id": "271808",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "509,100"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Belltown/r_271808/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/belltown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/belltown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2085192266"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-204-Seattle-WA-98119/2085192266_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2085192266_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2085192266_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "610 2nd Ave W APT 204"
+        ],
+        "zipcode": [
+          "98119"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.625133"
+        ],
+        "longitude": [
+          "-122.358832"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Uptown",
+              "id": "344010",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "447,400"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/uptown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2107393252"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/715-2nd-Ave-N-APT-203-Seattle-WA-98109/2107393252_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2107393252_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2107393252_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "715 2nd Ave N APT 203"
+        ],
+        "zipcode": [
+          "98109"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.625945"
+        ],
+        "longitude": [
+          "-122.353174"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Lower Queen Anne",
+              "id": "271906",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "611,300"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Lower-Queen-Anne/r_271906/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/lower-queen-anne-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/lower-queen-anne-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2108573246"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/715-2nd-Ave-N-APT-201-Seattle-WA-98109/2108573246_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2108573246_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2108573246_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "715 2nd Ave N APT 201"
+        ],
+        "zipcode": [
+          "98109"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.625945"
+        ],
+        "longitude": [
+          "-122.353174"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Lower Queen Anne",
+              "id": "271906",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "611,300"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Lower-Queen-Anne/r_271906/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/lower-queen-anne-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/lower-queen-anne-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2104733378"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/715-2nd-Ave-N-APT-302-Seattle-WA-98109/2104733378_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2104733378_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2104733378_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "715 2nd Ave N APT 302"
+        ],
+        "zipcode": [
+          "98109"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.625945"
+        ],
+        "longitude": [
+          "-122.353174"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Lower Queen Anne",
+              "id": "271906",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "611,300"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Lower-Queen-Anne/r_271906/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/lower-queen-anne-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/lower-queen-anne-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2083857152"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/2205-2nd-Ave-APT-608-Seattle-WA-98121/2083857152_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2083857152_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2083857152_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "2205 2nd Ave APT 608"
+        ],
+        "zipcode": [
+          "98121"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.613152"
+        ],
+        "longitude": [
+          "-122.344761"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "12/31/1969"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Belltown",
+              "id": "271808",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "509,100"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Belltown/r_271808/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/belltown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/belltown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2086543931"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-309-Seattle-WA-98119/2086543931_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2086543931_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2086543931_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "610 2nd Ave W APT 309"
+        ],
+        "zipcode": [
+          "98119"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.62511"
+        ],
+        "longitude": [
+          "-122.358924"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "_": "777066",
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "06/17/2019"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          {
+            "_": "3798",
+            "$": {
+              "duration": "30",
+              "currency": "USD"
+            }
+          }
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "_": "575029",
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "_": "1554132",
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Uptown",
+              "id": "344010",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "447,400"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/uptown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2087398888"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-209-Seattle-WA-98119/2087398888_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2087398888_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2087398888_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "610 2nd Ave W APT 209"
+        ],
+        "zipcode": [
+          "98119"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.62511"
+        ],
+        "longitude": [
+          "-122.358924"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "_": "775533",
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "06/17/2019"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          {
+            "_": "7413",
+            "$": {
+              "duration": "30",
+              "currency": "USD"
+            }
+          }
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "_": "566139",
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "_": "1551066",
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Uptown",
+              "id": "344010",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "447,400"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/uptown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2087398889"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-203-Seattle-WA-98119/2087398889_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2087398889_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2087398889_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "610 2nd Ave W APT 203"
+        ],
+        "zipcode": [
+          "98119"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.625133"
+        ],
+        "longitude": [
+          "-122.358832"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Uptown",
+              "id": "344010",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "447,400"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/uptown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2088941432"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-110-Seattle-WA-98119/2088941432_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2088941432_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2088941432_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "610 2nd Ave W APT 110"
+        ],
+        "zipcode": [
+          "98119"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.625133"
+        ],
+        "longitude": [
+          "-122.358832"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Uptown",
+              "id": "344010",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "447,400"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/uptown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2088967468"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-308-Seattle-WA-98119/2088967468_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2088967468_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2088967468_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "610 2nd Ave W APT 308"
+        ],
+        "zipcode": [
+          "98119"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.62511"
+        ],
+        "longitude": [
+          "-122.358924"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Uptown",
+              "id": "344010",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "447,400"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/uptown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2111688751"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/1421-2nd-Ave-N-APT-4-Seattle-WA-98109/2111688751_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2111688751_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2111688751_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "1421 2nd Ave N APT 4"
+        ],
+        "zipcode": [
+          "98109"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.631702"
+        ],
+        "longitude": [
+          "-122.352973"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "East Queen Anne",
+              "id": "271856",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "870,700"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/East-Queen-Anne/r_271856/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/east-queen-anne-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/east-queen-anne-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2089778347"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/1421-2nd-Ave-N-APT-8-Seattle-WA-98109/2089778347_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2089778347_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2089778347_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "1421 2nd Ave N APT 8"
+        ],
+        "zipcode": [
+          "98109"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.631694"
+        ],
+        "longitude": [
+          "-122.352922"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "East Queen Anne",
+              "id": "271856",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "870,700"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/East-Queen-Anne/r_271856/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/east-queen-anne-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/east-queen-anne-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2091213697"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-201-Seattle-WA-98119/2091213697_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2091213697_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2091213697_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "610 2nd Ave W APT 201"
+        ],
+        "zipcode": [
+          "98119"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.62511"
+        ],
+        "longitude": [
+          "-122.358925"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Uptown",
+              "id": "344010",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "447,400"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/uptown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2091792858"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-310-Seattle-WA-98119/2091792858_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2091792858_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2091792858_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "610 2nd Ave W APT 310"
+        ],
+        "zipcode": [
+          "98119"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.62511"
+        ],
+        "longitude": [
+          "-122.358924"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Uptown",
+              "id": "344010",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "447,400"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/uptown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "zpid": [
+      "2092338459"
+    ],
+    "links": [
+      {
+        "homedetails": [
+          "http://www.zillow.com/homedetails/610-2nd-Ave-W-APT-208-Seattle-WA-98119/2092338459_zpid/"
+        ],
+        "mapthishome": [
+          "http://www.zillow.com/homes/2092338459_zpid/"
+        ],
+        "comparables": [
+          "http://www.zillow.com/homes/comps/2092338459_zpid/"
+        ]
+      }
+    ],
+    "address": [
+      {
+        "street": [
+          "610 2nd Ave W APT 208"
+        ],
+        "zipcode": [
+          "98119"
+        ],
+        "city": [
+          "Seattle"
+        ],
+        "state": [
+          "WA"
+        ],
+        "latitude": [
+          "47.625133"
+        ],
+        "longitude": [
+          "-122.358832"
+        ]
+      }
+    ],
+    "zestimate": [
+      {
+        "amount": [
+          {
+            "$": {
+              "currency": "USD"
+            }
+          }
+        ],
+        "last-updated": [
+          "01/01/1970"
+        ],
+        "oneWeekChange": [
+          {
+            "$": {
+              "deprecated": "true"
+            }
+          }
+        ],
+        "valueChange": [
+          ""
+        ],
+        "valuationRange": [
+          {
+            "low": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ],
+            "high": [
+              {
+                "$": {
+                  "currency": "USD"
+                }
+              }
+            ]
+          }
+        ],
+        "percentile": [
+          "0"
+        ]
+      }
+    ],
+    "localRealEstate": [
+      {
+        "region": [
+          {
+            "$": {
+              "name": "Uptown",
+              "id": "344010",
+              "type": "neighborhood"
+            },
+            "zindexValue": [
+              "447,400"
+            ],
+            "links": [
+              {
+                "overview": [
+                  "http://www.zillow.com/local-info/WA-Seattle/Uptown/r_344010/"
+                ],
+                "forSaleByOwner": [
+                  "http://www.zillow.com/uptown-seattle-wa/fsbo/"
+                ],
+                "forSale": [
+                  "http://www.zillow.com/uptown-seattle-wa/"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
